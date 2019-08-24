@@ -1,0 +1,64 @@
+{
+    "uuid": "457d812a1cf704778231513372268456",
+    "name": "ZWatch",
+    "icon": "",
+    "version": "0.0.1",
+    "watchface": "true",
+    "resources": [
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_BG",
+            "file": "bg.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER0",
+            "file": "number0.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER1",
+            "file": "number1.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER2",
+            "file": "number2.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER3",
+            "file": "number3.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER4",
+            "file": "number4.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER5",
+            "file": "number5.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER6",
+            "file": "number6.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER7",
+            "file": "number7.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER8",
+            "file": "number8.bmp"
+        },
+        {
+            "type": "bmp",
+            "name": "RES_BITMAP_NUMBER9",
+            "file": "number9.bmp"
+        }
+    ]
+}

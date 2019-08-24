@@ -1,0 +1,14 @@
+{
+  "uuid": "8a4b027a2ca357518709f0357a7eaab3",
+  "name": "demo_scroll",
+  "icon": "RES_BITMAP_ICON",
+  "version": "0.0.2",
+  "watchface": "false",
+  "resources": [
+          {
+        "type": "bmp",
+        "name": "RES_BITMAP_ICON",
+        "file": "icon.bmp"
+      }
+      ]
+      }

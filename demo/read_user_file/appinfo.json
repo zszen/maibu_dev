@@ -1,0 +1,14 @@
+{
+  "uuid": "fbc6186f337ebcb16b15e108f3965d75",
+  "name": "demo_file",
+  "icon": "",
+  "version": "0.0.1",
+  "watchface": "true",
+  "resources": [
+        {
+        "type": "file",
+        "name": "MY_FILE_KEY",
+        "file": "data.txt"
+      }
+      ]
+      }
